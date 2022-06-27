@@ -11,13 +11,13 @@
 <img src="https://github.com/Sapphica/My_Computer/blob/main/stuff/front.jpg">
 </div>
 
-# Hardware monitroing program built with Lua 
+# Hardware monitroing program built with LUA and C# 
 
 <div align="center">
 <img src="https://github.com/Sapphica/My_Computer/blob/main/stuff/lcd.gif">
 </div>
 
-# OSX\Windows 10 hybrid built with LUA
+# OSX\Windows 10 hybrid built with LUA and C#
 
 <div align="center">
 <img src="https://github.com/Sapphica/My_Computer/blob/main/stuff/shawnadesktop.jpg">
